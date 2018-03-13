@@ -1,3 +1,5 @@
+### CSE 512 Machine Learning
+
 ## LASSO Regression with Coordinate Descent
 
 Implementation of LASSO Regression with Coordinate Descent on a dataset extracted from kaggle using sparse matrices for data handling.
